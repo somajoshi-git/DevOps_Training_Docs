@@ -725,6 +725,29 @@ smtp.gmail.com
 SMTP Authentication
 
 SMTP Port :: 465
+User Name
+somacse.joshi@gmail.com
+Password
+••••••••••••••••
+
+Use SSL
+?
+
+Use TLS
+SMTP Port
+?
+465
+Reply-To Address
+somasce.joshi@gmail.com
+Charset
+UTF-8
+
+Test configuration by sending test e-mail
+Test e-mail recipient
+somacse.joshi@gmail.com
+Test configuration
+Email was successfully sent
+Publish over SSH
 
 Login to Gmail :::
 
